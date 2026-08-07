@@ -15,5 +15,3 @@ I build applied AI systems across computer vision, product engineering, and data
 - Computer vision systems that move from model experiments into usable pipelines.
 - Full-stack AI products with clear user workflows, clean persistence, and realistic deployment paths.
 - Practical evaluations: accuracy tradeoffs, cost models, and simple infrastructure choices before heavier systems are introduced.
-
-For broader work samples, course projects, or private repositories, I can share a tailored list on request.
